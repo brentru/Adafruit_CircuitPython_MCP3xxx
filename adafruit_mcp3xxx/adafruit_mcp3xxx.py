@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 """
-`adafruit_MCP3xxx`
+`adafruit_mcp3xxx`
 ================================================
 
 CircuitPython Library for MCP3xxx ADCs with SPI
